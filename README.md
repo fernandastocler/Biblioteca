@@ -1,2 +1,2 @@
-#  Gerenciamento da Bibliotea
+#  Gerenciamento da Biblioteca
 - [x] atividade concluida
